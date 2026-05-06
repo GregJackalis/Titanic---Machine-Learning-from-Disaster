@@ -1,0 +1,16 @@
+# Virtual environments
+titanic_venv/
+venv/
+
+# # Python cache
+# __pycache__/
+# *.pyc
+
+# # Jupyter
+# .ipynb_checkpoints/
+
+# OS stuff (macOS)
+.DS_Store
+
+# Large data files
+data/
