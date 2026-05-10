@@ -14,3 +14,7 @@ venv/
 
 # Large data files
 data/
+
+# Notebook Random
+random.txt
+Models and Predictions.txt
